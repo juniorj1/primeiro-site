@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f0f0;
+    margin: 40px;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  header {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .header-itens {
+    margin-left: 16px;
+    margin-right: 24px;
+  }
+  
